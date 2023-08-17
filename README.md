@@ -9,7 +9,8 @@
 <h4></h4>For this project, we used the following front-end technologies:
 <h4>◽️MR.GOOGLE :)
 <h3>𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 𝙖𝙣𝙙 𝙎𝙚𝙩𝙪𝙥 ⚙️
-<h4></h4>To run the Pokédex website locally, follow these steps: 
+<h4></h4>To run the Pokédex website locally,CLICK THE LINK BELOW 
+
 <h3>𝘿𝙚𝙢𝙤 🎥 
 <h4></h4>For a live demo of our Pokédex website, visit 
 <h3>𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩𝙨 📷
