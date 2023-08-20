@@ -14,9 +14,9 @@
 <h4></h4>For a live demo of our Pokédex website, visit https://jingyitan.github.io/
 <h3>𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩𝙨 📷
 <h5>Screenshot 1 
-![image](https://github.com/jingyitan/jingyitan.github.io/assets/142076999/6774eb51-3658-41f8-b779-ea6702bc1f4e)
+
 <h5>Screenshot 2
-![image](https://github.com/jingyitan/jingyitan.github.io/assets/142076999/c91cde1d-ca30-41cf-a136-0e9f45aa7a70)
+
 <h3>𝘾𝙝𝙖𝙩𝙂𝙋𝙏 𝙋𝙧𝙤𝙢𝙥𝙩𝙨 𝙖𝙣𝙙 𝙍𝙚𝙨𝙥𝙤𝙣𝙨𝙚𝙨 📜
 <h4></h4>We didnt use Chat GPT.
 <h3>𝙄𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣 💡 
