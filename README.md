@@ -1,5 +1,4 @@
 # pokedex2023.github.io
-# jingyitan.github.io
 <h1>𝐏𝐨𝐤é𝐝𝐞𝐱 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 - 𝐆𝐫𝐨𝐮𝐩 𝐉𝐉𝐊 𝟐𝟎𝟐𝟑 
 <h3><p></p>𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣 📬<h4></h4>This is the repository for our Pokédex website project developed by Group JJK. Our goal for this project is to have a magical world with Pokémon!
 <h3>𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙎𝙘𝙤𝙥𝙚 📋
