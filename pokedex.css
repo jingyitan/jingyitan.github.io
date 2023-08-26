@@ -1,7 +1,7 @@
 body {
-    background: url("https://github.com/jingyitan/jingyitan.github.io/assets/142076999/291a8df6-75da-44d7-a6af-8762b99a352b") no-repeat;
+    background: url("./pokemon-bg.jpg") no-repeat;
     background-size: cover;
-    font-family: Times New Roman, Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #content-box {
@@ -165,6 +165,6 @@ body {
     margin: 0 auto;
     margin-top: 10px;
     padding: 2px;
-    font-size: 17px;
+    font-size: 18px;
     overflow-y: auto;
 }
