@@ -78,7 +78,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://pokeapi.co/api/v2/pokemon/")
+fetch("https://pokeapi.co/api/v2/pokemon/"+ num.toString();)
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
