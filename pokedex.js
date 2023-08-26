@@ -78,7 +78,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("https://jsonplaceholder.typicode.com/users")
+fetch("https://pokeapi.co/api/v2/pokemon/")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
