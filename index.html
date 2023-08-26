@@ -10,13 +10,9 @@
     </head>
 
     <body>
-        <audio controls autoplay>
+        <audio controls autoplay id="video">
             <source src="https://github.com/jingyitan/jingyitan.github.io/assets/142076999/7c344ba6-5116-4812-bd01-ea5ea4798f11" type="audio/mpeg">
         </audio>
-        <video controls autoplay>
-  <source src="./y2mate.com - 5 Minute Radial Timer Pikachu Pokemon Edition_v240P.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
         <div id="content-box">
             <!-- Left Side, display pokemon info -->
             <div id="pokemon-info">
@@ -30,5 +26,23 @@
             <div id="pokemon-list">
             </div>
         </div>
+        <script>
+            const video = document.getElementById("video");
+            video.addEventListener("play", handleFirstPlay, false);
+
+            let hasPlayed = false;
+            function handleFirstPlay(event) {
+              if (!hasPlayed) {
+                hasPlayed = true;
+            
+                // Remove listener so this only gets called once.
+                const vid = event.target;
+                vid.removeEventListener("play", handleFirstPlay);
+            
+                // Start whatever you need to do after first playback has started
+              }
+            }
+            video.play();
+        </script>
     </body>
 </html>
